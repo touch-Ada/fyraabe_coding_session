@@ -22,7 +22,8 @@ function draw() {
 
 // draw a line going randomly up or down
 function drawRandomLine(x1, y1, x2, y2) {
- inverted = random(10) > 5;
+ randomNumber = random(10);
+ inverted = randomNumber > 5;
  if (inverted) {
   line(x1, y2, x2, y1);
  } else {
