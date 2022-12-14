@@ -1,4 +1,4 @@
-# fyraabe_coding_session
+# tiles
 
 This project is used for a first introduction to programming.  
 Using Processing, we create a tiles pattern.  
